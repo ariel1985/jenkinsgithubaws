@@ -8,6 +8,6 @@
   <p>
     You have managed to set up a webapp using Jenkins with Github on AWS!
   </p>
-  <img src="https://static.vecteezy.com/system/resources/previews/000/155/850/non_2x/free-business-success-icons-vector.jpg"/>
+  <img width="200px" src="https://static.vecteezy.com/system/resources/previews/000/155/850/non_2x/free-business-success-icons-vector.jpg"/>
 </body>
 </html>
